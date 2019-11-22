@@ -10,14 +10,14 @@ var config = {
         "千里金陵发来贺电",
         "鱼鱼这个人",
         "真的很可爱",
-        "该吃吃 该喝喝 有事别往心里搁",
+        "该吃吃该喝喝 有事别往心里搁",
         "盼你如光",
         "满而不溢",
         "温暖无忧"
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Start now",
+        turn_on: "Start",
         play: "MUSIC",
         bannar_coming: "GO ON",
         balloons_flying: "more",

@@ -22,12 +22,12 @@ var config = {
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "",
+        turn_on: "Start now",
         play: "MUSIC",
         bannar_coming: "GO ON",
         balloons_flying: "more",
         cake_fadein: "surprise motherfucker！",
-        light_candle: "sorry没有草莓",
+        light_candle: "sorry for 没有草莓",
         wish_message: "祝 鱼鱼生日快乐",
         story: "Click here！",
     }

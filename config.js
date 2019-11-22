@@ -21,9 +21,9 @@ var config = {
         play: "MUSIC",
         bannar_coming: "GO ON",
         balloons_flying: "more",
-        cake_fadein: "surprise motherfucker！",
-        light_candle: "sorry for 没有草莓",
+        cake_fadein: "surprise motherfucker",
+        light_candle: "sorry没有草莓",
         wish_message: "鱼鱼生日快乐",
-        story: "Click here！",
+        story: "Click！",
     }
 };

@@ -12,7 +12,6 @@ var config = {
         "真的很可爱",
         "愿你",
         "该吃吃 该喝喝 有事别往心里搁",
-        "生日快乐",
         "盼你如光",
         "满而不溢",
         "温暖无忧"
@@ -25,7 +24,7 @@ var config = {
         balloons_flying: "more",
         cake_fadein: "surprise motherfucker！",
         light_candle: "sorry for 没有草莓",
-        wish_message: "祝 鱼鱼生日快乐",
+        wish_message: "鱼鱼生日快乐",
         story: "Click here！",
     }
 };

@@ -3,27 +3,32 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",
-        "心爱的小可爱",
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~"
+        "For 谌瑜",
+        "和lao女人相识四十天有余",
+        "喜迎生日良辰",
+        "恰逢成功越狱",
+        "千里金陵发来贺电",
+        "鱼鱼这个人",
+        "真的很可爱",
+        "还有恰巧的温柔和眼里的星光",
+        "愿你",
+        "该吃吃",
+        "该喝喝",
+        "有事别往心里搁",
+        "生日快乐",
+        "盼你如光",
+        "满而不溢",
+        "温暖无忧"
     ],
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "",
+        play: "MUSIC",
+        bannar_coming: "GO ON",
+        balloons_flying: "more",
+        cake_fadein: "surprise motherfucker！",
+        light_candle: "sorry没有草莓",
+        wish_message: "祝 鱼鱼生日快乐",
+        story: "Click here！",
     }
 };
